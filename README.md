@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apidnjsgud0625anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?dnjsgud0625=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **dnjsgud0625/dnjsgud0625** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
