@@ -3,7 +3,8 @@
 
 Languages and Tools : 
 
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2&logoColor=white"/></a>
 
 ![WonHyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnjsgud0625&show_icons=true&theme=algolia)
 
