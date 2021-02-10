@@ -1,5 +1,5 @@
 ### Hi there, I'm WonHyung! 👋
-# - 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java
 
 ![WonHyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnjsgud0625&show_icons=true&theme=algolia)
 
