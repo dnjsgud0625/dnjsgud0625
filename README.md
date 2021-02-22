@@ -1,5 +1,5 @@
 ### Hi there, I'm WonHyung! 👋
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java!
 
 Languages and Tools : 
 
