@@ -1,6 +1,8 @@
 ### Hi there, I'm WonHyung! 👋
 - 🌱 I’m currently learning Java!
 
+- 광운대학교 (2015.03.02 ~ 
+
 Languages and Tools : 
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
