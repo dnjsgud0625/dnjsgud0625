@@ -1,7 +1,7 @@
 ### Hi there, I'm WonHyung! 👋
 - 🌱 I’m currently learning Java!
 
-- 광운대학교 (2015.03.02 ~ )
+- 광운대학교 (2015.03.02 ~ 2022.02)
 
 Languages and Tools : 
 
