@@ -1,5 +1,5 @@
 ### Hi there, I'm WonHyung! 👋
-- 🌱 I’m currently learning Java!
+- 🌱 I’m currently learning Swift!
 
 - 광운대학교 (2015.03.02 ~ 2022.02)
 
